@@ -60,12 +60,14 @@ function App() {
      >
       <div className='container'>
        <h2 className='white'>$30 for front yards</h2>
+       <h2 className='white'>$50 for front and backyard</h2>
       <h2 className='white'>Refer a friend to get half off </h2>
-      <h2 className='white'>Contact me on <a href='https://www.instagram.com/okcmowandgo/'>Instagram</a>for an appointment</h2>
+      <h2 className='white'>Contact me on<a href='https://www.instagram.com/okcmowandgo/'>Instagram</a>for an appointment</h2>
       </div>
       
       
      </ParallaxLayer>
+
 
   </Parallax>
 
